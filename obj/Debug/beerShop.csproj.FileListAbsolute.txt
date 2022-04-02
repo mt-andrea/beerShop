@@ -1,0 +1,8 @@
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\bin\Debug\beerShop.exe.config
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\bin\Debug\beerShop.exe
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\bin\Debug\beerShop.pdb
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\obj\Debug\beerShop.csproj.AssemblyReference.cache
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\obj\Debug\beerShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\obj\Debug\beerShop.csproj.CoreCompileInputs.cache
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\obj\Debug\beerShop.exe
+C:\Users\Miu\Suli\EKKE\MAGPROG\beerShop\beerShop\obj\Debug\beerShop.pdb
